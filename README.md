@@ -8,4 +8,4 @@ L'objectif du projet **Aspie** est d'aider les enseignants à préparer des supp
   [Tutorial chatbot Alice](https://colab.research.google.com/drive/1HEdRi8VCGbIDEgATg2dtpGrHKYfsAWZy?usp=drive_link)
 
 - **Fichier PDF** :  
-  `alice-in-wonderland-1.pdf`
+  [alice in wonderland](alice-in-wonderland-1.pdf)
